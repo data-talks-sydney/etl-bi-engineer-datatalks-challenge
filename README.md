@@ -20,7 +20,7 @@ There are four stages to this task:
 2. Can you document the issues and assumptions made?
 
 
-**Data Transformation** : Using DBT, transform the raw data provided in order to create staging and summary tables as shown below.
+**Data Transformation** : Transform the raw data provided in order to create staging and summary tables as shown below. 
 
 - Create a *User Journey* table with the following information
 
