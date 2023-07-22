@@ -12,7 +12,14 @@ Good luck and have fun!
 
 # Project
 
-There are five stages to this task:
+There are **five** stages to this task:
+
+- Data Gathering
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Data Visualisation
+
 
 ## 1. Data Gathering
 
